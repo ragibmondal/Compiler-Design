@@ -1,0 +1,4 @@
+ This program demonstrates the use of
+single-line and multi-line comments in C.
+It will print "Hello, Comments!" to the console.
+123+ weriii * / =  for if { },455.66  and 39456 
